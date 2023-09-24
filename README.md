@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Trangph03
 - 👀 I’m interested in Data Modeling and processing 
 - 🌱 I’m currently learning Python and Azure
-- 💞️ I’m looking to collaborate on Azure
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me https://www.linkedin.com/in/trangphng/
 
 <!---
